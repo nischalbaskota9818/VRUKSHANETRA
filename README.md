@@ -58,7 +58,7 @@ Rudraksh provides you with comprehensive insights. It not only identifies the sp
 
 
 ## Setup Rudraksh Locally
-Once you have followed the steps mentioned in [Contribution](https://github.com/Deveesh-Shetty/rudraksh/blob/master/Contributing.md) to fork and clone the repository, do the following to setup rudraksh locally on your PC.
+Once you have followed the steps mentioned in  to fork and clone the repository, do the following to setup rudraksh locally on your PC.
 ```bash
 cd web
 ```
@@ -76,14 +76,6 @@ Run the server locally
 ```bash
 npm run dev
 ```
-That's it you are good to go! Looking forward to your contributions.
 
-## Contributors
-<a href="https://github.com/Deveesh-Shetty/rudraksh/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Deveesh-Shetty/rudraksh" />
-</a>
 
-<br />
-<br />
 
-**Thank you for using Rudraksh!**
