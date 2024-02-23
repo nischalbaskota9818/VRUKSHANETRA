@@ -25,7 +25,7 @@ export default function HowItWorks() {
             <p>
               Start by capturing a clear image of a plant leaf that might be
               showing signs of disease. Ensure that the image is sharp and
-              well-lit. Easily upload the image to the Rudraksh platform using
+              well-lit. Easily upload the image to the VRUKSHANETRA platform using
               our user-friendly interface.
             </p>
           </div>
@@ -41,7 +41,7 @@ export default function HowItWorks() {
           </div>
           <div className="py-4 text-center">
             <p>
-              Rudraksh&apos;s advanced AI technology kicks into action. The
+              VRUKSHANETRA&apos;s advanced AI technology kicks into action. The
               uploaded image is processed by a sophisticated machine learning
               model to analyze the visual characteristics of the leaf in the
               image, comparing them to an extensive database.
@@ -59,7 +59,7 @@ export default function HowItWorks() {
           </div>
           <div className="py-4 text-center">
             <p>
-              Rudraksh provides you with comprehensive insights. It not only
+              VRUKSHANETRA provides you with comprehensive insights. It not only
               identifies the specific disease affecting your plant but also
               offers a detailed description of the plant, the disease itself,
               and recommends effective remedies.
